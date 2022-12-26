@@ -1,3 +1,3 @@
-def greet():
-    inpstr=input("enter your name:")
-    print(outstr)
+s1="""this
+is a multi-line
+string"""
